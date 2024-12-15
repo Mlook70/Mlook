@@ -39,7 +39,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          I'm Abdulmalek Akel a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills.
+              Abdulmalek Akel a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills.
           </p>
           <div>
             <Link
